@@ -33,7 +33,6 @@ cd my_todo_api
 PORT=3000
 MONGODB_URL=mongodb://root:example@localhost:27017
 JWT_ACCESS_TOKEN_SECRET=your_secret
-JWT_REFRESH_TOKEN_SECRET=your_refresh_secret
 ```
 
 4. Build mongodb image:
